@@ -32,4 +32,4 @@ Open project in [jDeploy](https://www.jdeploy.com), and press "Publish"
 
 ### Advanced Deployment
 
-See [jDpeloy Manual](https://www.jdeploy.com/docs/manual/)
+See [jDeploy Manual](https://www.jdeploy.com/docs/manual/)
